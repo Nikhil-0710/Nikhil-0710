@@ -57,33 +57,3 @@
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.shion.dev/api?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages"/>
-  
-  <br><br>
-  
-  <img src="https://streak-stats.demolab.com/?user=Nikhil-0710&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-0710&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-
-  <br><br>
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil-0710&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-
-  <br><br>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-0710&icon=0&color=0" alt="Profile Views"/>
-
-</div>
