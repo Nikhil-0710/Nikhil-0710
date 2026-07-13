@@ -1,23 +1,28 @@
 <div align="center">
+  <!-- Dynamic Hero Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
     <img alt="Nishchay's Profile Banner" src="./dark.svg" width="100%">
   </picture>
+</div>
 
-  <br><br>
+<br>
 
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+<h2 data-importer="text" align="left">Hi 👋! My name is Nishchay and I'm a Computer Science Student, from India.</h2>
+
+<div data-importer="socials" align="left">
   <a href="https://linkedin.com/in/nishchay-agrawal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/@itz_nikhil0710"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
   <a href="mailto:nishchayagrawal07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://facebook.com/nishchay.agrawal.16"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/theguynamednikhil"><img src="https://img.shields.io/badge/Personal_IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Personal Instagram"/></a>
-  <a href="https://instagram.com/pixelatednikhil"><img src="https://img.shields.io/badge/Nikhil's_Photography-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Photography Instagram"/></a>
-
-  <br><br>
+  <a href="https://instagram.com/pixelatednikhil"><img src="https://img.shields.io/badge/Photography_IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Photography Instagram"/></a>
 </div>
 
----
+<br>
 
 ### 💫 About Me
 
@@ -32,28 +37,60 @@
 
 ### 💻 Tech Stack
 
-**Languages & Databases** <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<div data-importer="techs" align="left">
+  <!-- Core Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <!-- Frameworks & Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <!-- Databases & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
 
-**Data Science & Machine Learning** <p>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-</p>
+---
 
-**Frameworks & Tools** <p>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-</p>
+### 📊 GitHub Analytics
 
+<div align="center">
+  
+  <img src="https://github-readme-stats.shion.dev/api?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages"/>
+  
+  <br><br>
+  
+  <img src="https://streak-stats.demolab.com/?user=Nikhil-0710&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  
+  <br><br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-0710&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+
+  <br><br>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil-0710&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+
+  <br><br>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-0710&icon=0&color=0" alt="Profile Views"/>
+
+</div>
