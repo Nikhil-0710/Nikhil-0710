@@ -9,7 +9,7 @@
 
 <br>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<!--<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />-->
 
 <h2 data-importer="text" align="left">Hi 👋! My name is Nishchay and I'm a Computer Science Student, from India.</h2>
 
