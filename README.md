@@ -69,12 +69,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Pacman Contribution Graph -->
+  <!-- Pacman Contribution Graph
   <picture data-importer="pacman">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
+  </picture> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-0710&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Nishchay's Contribution Graph" />
   <img src="https://ghchart.rshah.org/10B981/Nikhil-0710" alt="Nishchay's Github Heatmap" />
   <br><br>
@@ -87,18 +87,17 @@
   <img src="https://streak-stats.demolab.com/?user=Nikhil-0710&theme=dark&hide_border=false" alt="GitHub Streak"/>
   
   <br><br>
-
+<!--
   <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-0710&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies"/>
 
 <br><br>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Nikhil-0710&limit=5&theme=dark&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repos"/>
   <br><br>
-  
+   -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=Nikhil-0710&icon=0&color=0" alt="Profile Views"/>
 
 </div>
