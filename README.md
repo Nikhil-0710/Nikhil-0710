@@ -16,6 +16,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=10B981&center=false&vCenter=true&width=600&lines=Building+intelligent+backend+systems;Training+and+deploying+ML+models;Always+debugging+something+in+C%2B%2B" alt="Typing SVG" />
 </p>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Timezone-IST%20(UTC%2B5:30)-10B981?style=for-the-badge" alt="Timezone"/>
+</div>
+
 <div data-importer="socials" align="left">
   <a href="https://linkedin.com/in/nishchay-agrawal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/@itz_nikhil0710"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
@@ -23,6 +27,8 @@
   <a href="https://facebook.com/nishchay.agrawal.16"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/theguynamednikhil"><img src="https://img.shields.io/badge/Personal_IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Personal Instagram"/></a>
   <a href="https://instagram.com/pixelatednikhil"><img src="https://img.shields.io/badge/Photography_IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Photography Instagram"/></a>
+  <!-- Add your resume/portfolio link here once you have one, e.g.: -->
+  <!-- <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a> -->
 </div>
 
 <br>
@@ -107,8 +113,9 @@ Currently contributing to and exploring these open-source projects:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-0710&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Nishchay's Contribution Graph" />
-  <img src="https://ghchart.rshah.org/10B981/Nikhil-0710" alt="Nishchay's Github Heatmap" />
+
+  <!-- Contribution snake — auto-updates daily via GitHub Action (see setup below) -->
+  <img src="https://raw.githubusercontent.com/Nikhil-0710/Nikhil-0710/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 
   <br><br>
 
