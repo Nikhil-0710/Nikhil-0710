@@ -9,9 +9,12 @@
 
 <br>
 
-<!--<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />-->
-
 <h2 data-importer="text" align="left">Hi 👋! My name is Nishchay and I'm a Computer Science Student, from India.</h2>
+
+<!-- Dynamic typing tagline -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=10B981&center=false&vCenter=true&width=600&lines=Building+intelligent+backend+systems;Training+and+deploying+ML+models;Always+debugging+something+in+C%2B%2B" alt="Typing SVG" />
+</p>
 
 <div data-importer="socials" align="left">
   <a href="https://linkedin.com/in/nishchay-agrawal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -26,19 +29,48 @@
 
 ### 💫 About Me
 
-* 🔭 **I’m currently working on** architecting intelligent backend systems and developing high-performance machine learning solutions.
-* 👯 **I’m looking to collaborate on** open-source AI/ML projects and scalable web applications.
-* 🤝 **I’m looking for help with** optimizing machine learning models for production and advanced deployment strategies.
-* 🌱 **I’m currently learning** advanced system design and integrating complex AI models into scalable web architectures.
+* 🔭 **I'm currently working on** architecting intelligent backend systems and developing high-performance machine learning solutions.
+* 👯 **I'm looking to collaborate on** open-source AI/ML projects and scalable web applications.
+* 🤝 **I'm looking for help with** optimizing machine learning models for production and advanced deployment strategies.
+* 🌱 **I'm currently learning** advanced system design and integrating complex AI models into scalable web architectures.
 * 💬 **Ask me about** Python, Flask, C/C++, Machine Learning, and backend architecture.
 * ⚡ **Fun fact:** I can debug a complex C++ segmentation fault faster than I can decide what to watch on Netflix.
 
 ---
 
+### 🚀 Featured Project
+
+<div align="center">
+  <a href="https://github.com/Nikhil-0710/GitCanvas">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nikhil-0710&repo=GitCanvas&theme=dark&hide_border=false" alt="GitCanvas"/>
+  </a>
+</div>
+
+<!--
+  You currently have only one original repo (GitCanvas) — the rest of your
+  pins are forks. Add more of your own projects here as you build them;
+  each entry follows the same pattern, just swap the repo name:
+  <a href="https://github.com/Nikhil-0710/YOUR_REPO">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Nikhil-0710&repo=YOUR_REPO&theme=dark&hide_border=false" alt="YOUR_REPO"/>
+  </a>
+-->
+
+### 🌱 Active Contributions
+
+Currently contributing to and exploring these open-source projects:
+
+- **[TermUI](https://github.com/Karanjot786/TermUI)** — TypeScript/JavaScript framework for building terminal apps
+- **[AegisAI](https://github.com/SdSarthak/AegisAI)** — Open-source AI Governance, Risk & Compliance platform
+- **[DevPath](https://github.com/komalharshita/DevPath)** — Recommends coding projects based on skill level and interests
+- **[gitverse-nextjs](https://github.com/nisshchayarathi/gitverse-nextjs)** — Turns a GitHub repo into an interactive architecture map
+
+---
+
 ### 💻 Tech Stack
 
+**Languages**
+
 <div data-importer="techs" align="left">
-  <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -48,15 +80,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <!-- Frameworks & Data Science -->
+</div>
+
+**Frameworks & Data Science**
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <!-- Databases & Tools -->
+</div>
+
+**Databases & Tools**
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
@@ -69,35 +107,33 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Pacman Contribution Graph
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-0710&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Nishchay's Contribution Graph" />
   <img src="https://ghchart.rshah.org/10B981/Nikhil-0710" alt="Nishchay's Github Heatmap" />
+
   <br><br>
-  
+
   <img src="https://github-readme-stats.shion.dev/api?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-0710&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages"/>
-  
+
   <br><br>
-  
+
   <img src="https://streak-stats.demolab.com/?user=Nikhil-0710&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  
-  <br><br>
-<!--
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-0710&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1" alt="GitHub Trophies"/>
 
-<br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Nikhil-0710&limit=5&theme=dark&combine_all_yearly_contributions=true&v=1" alt="Top Contributed Repos"/>
   <br><br>
-   -->
+
+  <!-- Achievements trophy case -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil-0710&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+
+  <br><br>
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-  <br><br>
-  
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nikhil-0710&label=Profile+Views&color=10B981&style=for-the-badge" alt="Profile Views"/>
+  <br><br>
+  <sub>Thanks for stopping by — feel free to connect or drop a star on something you find useful ⭐</sub>
 </div>
